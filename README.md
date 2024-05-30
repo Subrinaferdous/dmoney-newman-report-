@@ -1,4 +1,4 @@
-# Dmoney API Automation and Reporting using newman 
+# Project Title : Dmoney API Automation and Reporting using newman 
 
 ## Project Sumary : In this project admin can create (agent, customer and merchant), view transaction list . Also deposite some money from System to agent and agent to customer. It is also possible to withdraw, send money and make payment. Everyone(agent,customer,merchant) can Check balance and statement for their transactions.
 
