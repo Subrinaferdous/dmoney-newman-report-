@@ -15,7 +15,8 @@
 ## output:
 ![Screenshot 2024-06-01 160901](https://github.com/Subrinaferdous/dmoney-newman-report-/assets/171265716/364dd1d5-838a-45e8-a261-987c7e083d6a)
 
-
+## Test case and Bug Report Link :
+https://docs.google.com/spreadsheets/d/1oGxTla2xASciXWemMuux-6QweyV9AYJe0k9mar704Gg/edit?usp=drive_link
 
 
 ## API Documentation :
