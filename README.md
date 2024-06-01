@@ -13,7 +13,9 @@
    2. ``` npm start ```
 
 ## output:
-![Report screenshot ](https://github.com/Subrinaferdous/dmoney-newman-report-/assets/171265716/26193d9a-a3de-4e1e-8724-bd693fa6be94)
+![Screenshot 2024-06-01 160901](https://github.com/Subrinaferdous/dmoney-newman-report-/assets/171265716/364dd1d5-838a-45e8-a261-987c7e083d6a)
+
+
 
 
 ## API Documentation :
